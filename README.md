@@ -1,10 +1,12 @@
 ## [2024 UNLV Engineering Internship]
 
 #### 01 Inclinometer  
- : convert raw, pitch, and yaw from inclinometer (WT901)  
+ : convert raw, pitch, and yaw from inclinometer  
+   WT901  
  
 #### 02 Distance and Lux  
- : test several sensors and devices (FireBeetle ESP32, VEML7700, VL6810X, WS2812)  
+ : test several sensors and devices
+   FireBeetle ESP32, VEML7700, VL6810X, WS2812  
  
 #### 03 OpenMANIPULATOR-X (X-delta)  
  : connect the joystick and robot 
