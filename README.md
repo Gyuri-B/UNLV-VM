@@ -5,7 +5,7 @@
    WT901  
  
 #### 02 Distance and Lux  
- : test several sensors and devices  
+ : test several sensors and devices for distance and light  
    FireBeetle ESP32 - VEML7700, VL6810X, WS2812  
  
 #### 03 OpenMANIPULATOR-X (X-delta)  
