@@ -1,1 +1,14 @@
+ssh -X water@192.168.1.xxx
 
+source ~/wdpt_ws/devel/setup.bash
+sudo ds4drv
+
+source ~/wdpt_ws/devel/setup.bash
+(check the USB number by lsusb)
+ls -l /dev/ttyUSB0
+sudo chmod a+rwx /dev/ttyUSB0
+find ~/wdpt_ws -name "*.launch"
+(revise "open_manipulator_controller.launch" according to the USB number(/dev/ttyUSB0))
+
+source ~/wdpt_ws/devel/setup.bash
+roslaunch delta_controller delta_thing.launch
