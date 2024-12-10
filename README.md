@@ -20,5 +20,5 @@
    FireBeetle ESP32 - SEN0460(PM1.0/PM2.5/PM10), SEN0159(CO2), SEN0466(CO), SEN0470(SO2), SEN0471(NO2)  
  
 #### 06 Communication on Drone  
-  : (In progress)  
-    M5Core2
+  : gather all values from calibrated sensors and save the data in SD card with timestamps every 5 seconds  
+    M5Core2 - SEN0460(PM1.0/PM2.5/PM10), SEN0159(CO2), SEN0466(CO), SEN0470(SO2), SEN0471(NO2)  
