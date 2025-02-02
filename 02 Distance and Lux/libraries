@@ -1,1 +1,6 @@
-board: ESP32(ver 2.0.14)
+[List of used libraries]
+- board: ESP32(ver 2.0.14)
+
+- VEML7700: Adafruit VEML7700
+- VL6810X: Adafruit VL6810X / Polulu VL6810X
+- WS2812: Adafruit Neopixel
