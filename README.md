@@ -1,4 +1,4 @@
-## [2024 UNLV Engineering Internship]
+## [2024-Fall UNLV Engineering Internship]
 
 #### 01 Interface with Inclinometer  
  : convert raw, pitch, and yaw to X tilt and Y tilt from inclinometer  
